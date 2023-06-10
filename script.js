@@ -94,10 +94,8 @@ function rot13(encodedStr) {
   return decodedArr.join("");
 }
 
-console.log(rot13("SERR YBIR? NPPVBWBO"));
-
-
-
+// You can test your code by running the above function and printing it to the console
+console.log(rot13("SERR YBIR? NPPVBWBO")); // Output: FREE LOVE? ACCIOSOB
 
 
 
